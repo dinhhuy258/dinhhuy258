@@ -26,5 +26,5 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dinhhuy258&repo=git.nvim&theme=github)](https://github.com/dinhhuy258/git.nvim)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dinhhuy258&repo=vim-database&theme=github)](https://github.com/dinhhuy258/vim-database)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dinhhuy258&repo=fm&theme=github)](https://github.com/dinhhuy258/fm)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dinhhuy258&repo=fm&theme=github)](https://github.com/dinhhuy258/sfm.nvim)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dinhhuy258&repo=sfm&theme=github)](https://github.com/dinhhuy258/sfm.nvim)
 
