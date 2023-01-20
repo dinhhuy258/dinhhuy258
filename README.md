@@ -11,19 +11,19 @@
 <h3 align="left">My stats</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinhhuy258&theme=github)
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dinhhuy258&show_icons=true&locale=en" alt="dinhhuy258" /></p>
+<p>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dinhhuy258&show_icons=true&locale=en" alt="dinhhuy258" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhhuy258&" alt="dinhhuy258" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhhuy258&show_icons=true&locale=en&layout=compact" alt="dinhhuy258" /></p>
+<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dinhhuy258&show_icons=true&locale=en&layout=compact" alt="dinhhuy258" /></p>
 
 <h3 align="left">My repositories</h3>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dinhhuy258&repo=dotfiles&theme=github)](https://github.com/dinhhuy258/dotfiles)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dinhhuy258&repo=notes&theme=github)](https://github.com/dinhhuy258/notes)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dinhhuy258&repo=sfm.nvim&theme=github)](https://github.com/dinhhuy258/sfm.nvim)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dinhhuy258&repo=vintellij&theme=github)](https://github.com/dinhhuy258/vintellij)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dinhhuy258&repo=vim-local-history&theme=github)](https://github.com/dinhhuy258/vim-local-history)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dinhhuy258&repo=vim-database&theme=github)](https://github.com/dinhhuy258/vim-database)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dinhhuy258&repo=dotfiles&theme=github)](https://github.com/dinhhuy258/dotfiles)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dinhhuy258&repo=notes&theme=github)](https://github.com/dinhhuy258/notes)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dinhhuy258&repo=sfm.nvim&theme=github)](https://github.com/dinhhuy258/sfm.nvim)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dinhhuy258&repo=vintellij&theme=github)](https://github.com/dinhhuy258/vintellij)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dinhhuy258&repo=vim-local-history&theme=github)](https://github.com/dinhhuy258/vim-local-history)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dinhhuy258&repo=vim-database&theme=github)](https://github.com/dinhhuy258/vim-database)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dinhhuy258&repo=git.nvim&theme=github)](https://github.com/dinhhuy258/git.nvim)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dinhhuy258&repo=fm&theme=github)](https://github.com/dinhhuy258/fm)
